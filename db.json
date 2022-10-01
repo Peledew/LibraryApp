@@ -1,0 +1,118 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": "2016",
+      "pages": "694",
+      "quantity": "123"
+    },
+    {
+      "id": "2",
+      "title": "Blade Runner",
+      "author": "Phillip K. Dick",
+      "year": "2007",
+      "pages": "102",
+      "quantity": "11"
+    },
+    {
+      "id": "3",
+      "title": "Starship Troopers",
+      "author": "Robert A. Heinlein",
+      "year": "2013",
+      "pages": "632",
+      "quantity": "4"
+    },
+    {
+      "id": "4",
+      "title": "Foundation",
+      "author": "Isac Asimov",
+      "year": "2012",
+      "pages": "712",
+      "quantity": "62"
+    },
+    {
+      "id": "5",
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "year": "2008",
+      "pages": "342",
+      "quantity": "8"
+    },
+    {
+      "id": "6",
+      "title": "Necronomicon",
+      "author": "H. P. Lovecraft",
+      "year": "2013",
+      "pages": "522",
+      "quantity": "2"
+    },
+    {
+      "id": "7",
+      "title": "I, Robot",
+      "author": "Isac Asimov",
+      "year": "2010",
+      "pages": "674",
+      "quantity": "7"
+    },
+    {
+      "id": "8",
+      "title": "2001",
+      "author": "Arthur C. Clarke",
+      "year": "2001",
+      "pages": "321",
+      "quantity": "4"
+    },
+    {
+      "id": "9",
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "year": "2018",
+      "pages": "346",
+      "quantity": "3"
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "Frank Herbert",
+      "dateOfBirth": "1984-03-12"
+    },
+    {
+      "id": "2",
+      "name": "Isac Asimov",
+      "dateOfBirth": "1977-04-21"
+    },
+    {
+      "id": "3",
+      "name": "Robert A. Heinlein",
+      "dateOfBirth": "1960-05-01"
+    },
+    {
+      "id": "4",
+      "name": "H. P. Lovecraft",
+      "dateOfBirth": "1990-10-10"
+    },
+    {
+      "id": "5",
+      "name": "H. G. Wells",
+      "dateOfBirth": "1999-09-09"
+    },
+    {
+      "id": "6",
+      "name": "William Gibson",
+      "dateOfBirth": "1978-02-07"
+    },
+    {
+      "id": "7",
+      "name": "Arthur C. Clarke",
+      "dateOfBirth": "1985-11-25"
+    },
+    {
+      "id": "8",
+      "name": "Phillip K. Dick",
+      "dateOfBirth": "2001-12-29"
+    }
+  ]
+}

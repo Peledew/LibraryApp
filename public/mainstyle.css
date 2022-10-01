@@ -1,0 +1,112 @@
+strong{
+    font-weight: bold;
+}
+
+nav, .bookPreviewHeader{
+    height: 13.5em !important;
+}
+
+tbody > tr{
+    border: none !important;
+}
+
+.add_button{
+    position: absolute !important;
+    top: 86% !important;
+    right: 92% !important;
+    scale: 1.4 !important;
+}
+
+.heading_title{
+    position: absolute;
+    top: 46%;
+    left: 11.5%;
+}
+
+.author_dropdown{
+    position: absolute;
+    top: 51%;
+    right: 3%;
+}
+
+.gray_color{
+    color:gray;
+}
+
+.width16{
+    width: 16% !important;
+}
+
+.width11{
+    width: 11% !important;
+}
+
+.marginleft3{
+    margin-left:3% !important;
+}
+
+.marginleft2{
+    margin-left:2% !important;
+}
+
+.margin-l-5em{
+    margin-left: 5.5em;
+}
+
+.padding030{
+    padding: 0px 30px !important;
+}
+
+.padding0007{
+    padding: 0px 0em 0px 7em !important;
+}
+
+.border-radius5{
+    border-radius: 5px !important;
+}
+
+.darkgrayborder{
+    border: 1px solid darkgray !important;
+}
+
+.whiteborder{
+    border: 1px solid white !important;
+}
+
+.absolute3_5-3{
+    position: absolute;
+    top: 3.5em;
+    left: 3em;
+}
+
+.cursor-pointer{
+    cursor: pointer !important;
+}
+
+.no-padding{
+    padding: 0 !important; 
+}
+
+.no-margin{
+    margin: 0 !important;
+}
+
+.color-white{
+    color:white;
+}
+
+.font-size-3m{
+    font-size: 3em;
+}
+
+.position_relative{
+    position: relative;
+}
+
+.book-photo-size{
+    height: 3em;
+}
+
+.no-text-transform{
+    text-transform: none !important;
+}
